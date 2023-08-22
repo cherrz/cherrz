@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, my name is Dawid and I'm working as a Test Engineer 👋
 
 ## About Me
 
