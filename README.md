@@ -1,10 +1,10 @@
-## Hi, my name is Dawid and I work as a Test Engineer 👋
+# Hi, my name is Dawid and I work as a Test Engineer 👋
 
-## About Me
+### About me and my job ⬇️
 
-As a QA Sofware Engineer with over 2,5 years of experience, I specialize in finding & reporting bugs, creating and executing tests to ensure that products meet high-quality standards, also I can automate processes with Playwright and TypeScript. 
+As a Test Engineer with over 2,5 years of experience, I specialize in finding & reporting bugs, creating and executing tests to ensure that products meet high-quality standards, also I can automate basic happy paths on the website with Playwright and TypeScript. 
 
-Right now I'm mainly dealing with: 
+**Right now I'm mainly dealing with: **
 - Coding basic automation tests with Playwright & TS
 - Testing backend & API with Postman
 - Testing sites, web applications and mobile apps
