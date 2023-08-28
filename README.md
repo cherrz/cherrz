@@ -2,7 +2,7 @@
 
 ### About me and my job ⬇️
 
-As a Test Engineer with over 2,5 years of experience, I specialize in finding & reporting bugs, creating and executing tests to ensure that products meet high-quality standards, also I can automate basic happy paths on the website with Playwright and TypeScript. 
+As a QA with 3 year of commercial experience (5 years in total in IT), I specialize in finding & reporting bugs, creating and executing tests to ensure that products meet high quality standards, also I can automate E2E processes with Playwright and TypeScript. I have knowledge in HTML, CSS, JavaScript & SQL and tools like Postman (API), GIT, JIRA. I have been working in an agile environment for years.
 
 **Right now I'm mainly dealing with:**
 - Coding basic automation tests with Playwright & TS
