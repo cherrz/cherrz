@@ -1,4 +1,4 @@
-# Hi, my name is Dawid and I work as a Test Engineer 👋
+# Hi, my name is Dawid and I work as a QA Test Engineer 👋
 
 ### About me and my job ⬇️
 
