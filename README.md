@@ -2,9 +2,9 @@
 
 ### About me and my job ⬇️
 
-As a QA with 3 year of commercial experience (5 years in total in IT), I specialize in finding & reporting bugs, creating and executing tests to ensure that products meet high quality standards, also I can automate E2E processes with Playwright and TypeScript. I have knowledge in HTML, CSS, JavaScript & SQL and tools like Postman (API), GIT, JIRA. I have been working in an agile environment for years.
+As a QA with 3 years of commercial experience (5 years in total in IT), I specialize in finding & reporting bugs, creating and executing tests, and creating a Test Scenario to ensure that products meet high-quality standards, also I can automate simple E2E processes with Playwright and TypeScript. I've mostly worked on web projects, but I have experience testing mobile apps, both on iOS and Android. I have knowledge of HTML, CSS, JavaScript & SQL, and tools like Postman (API), GiT, and Jira. I have been working in an agile environment for years. I'm learning automation after work hours.
 
-**Right now I'm mainly dealing with:**
+Right now I'm mainly dealing with: 
 - Coding basic automation tests with Playwright & TS
 - Testing backend & API with Postman
 - Testing sites, web applications and mobile apps
