@@ -7,7 +7,7 @@ As a QA with 3 years of commercial experience (5 years in total in IT), I specia
 ## My stack:
 [![My Skills](https://skillicons.dev/icons?i=postman,graphql,js,html,css,gherkin)](https://skillicons.dev)
 
-![image]({[[BadgeURLHere](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)]})
+![image]({[[https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white]})
 
 
 ### Right now I'm mainly dealing with: 
