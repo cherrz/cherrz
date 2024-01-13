@@ -5,10 +5,9 @@
 As a QA with 3 years of commercial experience (5 years in total in IT), I specialize in finding & reporting bugs, creating and executing tests, and creating a Test Scenario to ensure that products meet high-quality standards, also I can automate simple E2E processes with Playwright and TypeScript. I've mostly worked on web projects, but I have experience testing mobile apps, both on iOS and Android. I have knowledge of HTML, CSS, JavaScript & SQL, and tools like Postman (API), GIT, and Jira. I have been working in an agile environment for years. I'm learning automation after work hours.
 
 ## My stack:
-[![My Skills](https://skillicons.dev/icons?i=postman,graphql,js,html,css,gherkin)](https://skillicons.dev)
-
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" /><img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" />
 
 ### Right now I'm mainly dealing with: 
 - Coding basic automation E2E tests with Playwright & TS
