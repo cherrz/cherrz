@@ -2,7 +2,7 @@
 
 ### About me and my job ⬇️
 
-As a QA with more than 3 years of commercial experience (6 years in total in IT) I cover all major stages of software testing like functional, integration, system, acceptance and regression testing. I’m proficient in creating and executing Test Cases and Test Scenarios to ensure that products meet client requirements. Also I can automate simple E2E processes with Playwright and TypeScript. I've mostly worked on web projects, but I have experience testing mobile apps, both on iOS and Android. I have knowledge of HTML, CSS, JavaScript, TS & SQL, and tools like Postman (REST API), GIT, and Jira suite. I have been working in an Agile (Scrum) environment for years. I am constantly developing myself after work hours. I am very organized and honest. Have been working remotely for 3 years, but still I’m able to take a hybrid job.
+As a Bachelor of Computer Science Engineering and ISTQB certified QA with more than 3 years of commercial experience (6 years in total in IT), he covers all major stages of software testing. He is proficient in creating and executing Test Cases and Test Scenarios to ensure that products meet client requirements. He has mostly worked on web projects, but he also has experience in testing mobile apps, both on iOS and Android. He has knowledge of HTML, CSS, JavaScript, TS & SQL, and tools like Postman (REST API), GIT, and Jira suite. He has been working in an Agile (Scrum) environment for years. He is constantly developing himself after work hours.
 
 ## My tech stack:
 <div display='inline'>
