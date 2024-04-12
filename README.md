@@ -2,7 +2,7 @@
 
 ### About me and my job ⬇️
 
-As a Bachelor of Computer Science Engineering and ISTQB certified QA with more than 3 years of commercial experience (6 years in total in IT), he covers all major stages of software testing. He is proficient in creating and executing Test Cases and Test Scenarios to ensure that products meet client requirements. He has mostly worked on web projects, but he also has experience in testing mobile apps, both on iOS and Android. He has knowledge of HTML, CSS, JavaScript, TS & SQL, and tools like Postman (REST API), GIT, and Jira suite. He has been working in an Agile (Scrum) environment for years. He is constantly developing himself after work hours.
+As an ISTQB certified QA with more than 3 years of commercial experience (5 years in total in IT) I cover all major stages of software testing. I’m proficient in creating and executing test cases and test scenarios to ensure that products meet client requirements. I work on web projects, but I also have experience in testing mobile apps, both on iOS and Android. I have knowledge of HTML, CSS, JavaScript, TypeScript & SQL, and tools like Postman (REST API), GIT, and Jira suite. I have been working in an Agile (Scrum) environment for years. I can manage my work, I understand the processes of the project involved and have project management certifications such as ITIL, AgilePM and Prince2. 
 
 ## My tech stack:
 <div display='inline'>
