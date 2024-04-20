@@ -1,7 +1,5 @@
 # Hi, my name is Dawid and I work as a QA Test Engineer 👋
 
-### About me and my job ⬇️
-
 As an ISTQB certified QA with more than 3 years of commercial experience (5 years in total in IT) I cover all major stages of software testing. I’m proficient in creating and executing test cases and test scenarios to ensure that products meet client requirements. I work on web projects, but I also have experience in testing mobile apps, both on iOS and Android. I have knowledge of HTML, CSS, JavaScript, TypeScript & SQL, and tools like Postman (REST API), GIT, and Jira suite. I have been working in an Agile (Scrum) environment for years. I can manage my work, I understand the processes of the project involved and have project management certifications such as ITIL, AgilePM and Prince2. 
 
 ## My tech stack:
@@ -24,12 +22,12 @@ As an ISTQB certified QA with more than 3 years of commercial experience (5 year
 
 
 ### Right now I'm mainly dealing with: 
-- Coding basic automation E2E tests with Playwright & TS
 - Testing backend & REST API with Postman
 - Testing sites, web applications and mobile apps (iOS and Android)
 - Reporting bugs using the JIRA tools
 - Creating test scenarios, test cases and executing them
 - Cooperation with developers and PM's
+- Coding basic automation E2E tests with Playwright & TS
 
 During my work, I have gained a lot of experience in testing different types of applications and systems, both at the front-end and back-end levels. I have worked with various tools such as JIRA and GIT, and have been able to work effectively with the development team to resolve quality issues and ensure the continuous development of our products.
 
